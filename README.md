@@ -1,2 +1,2 @@
 # Apnacollege-demo-2025
-this is my first Git Repository.
+this is my first Git Repository. Author - Sufiyan Pathan
